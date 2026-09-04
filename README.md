@@ -1,1 +1,1 @@
-# CSharp-2026-2027
+# Amennyiben bárkinek bármi kérdése van, kérem jelezze!
